@@ -1,0 +1,10 @@
+name: rm_evaluation
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - seaborn
+  - pandas
+  - jupyter
+prefix: C:\Users\rmenn\Miniconda3\envs\rm_evaluation
